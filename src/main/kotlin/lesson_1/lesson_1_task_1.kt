@@ -2,6 +2,11 @@ package lesson_1
 
 fun main () {
 
-    println("Это решение задачи 1 из урока 1")
+    val ordersNumber:Int = 75
+    val thankYouSoMuch:String = "Премногоблагодарны вам за ваши деньги"
+
+    println(ordersNumber)
+    println(thankYouSoMuch)
 
 }
+

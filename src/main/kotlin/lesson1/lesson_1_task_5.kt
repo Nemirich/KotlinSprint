@@ -1,13 +1,4 @@
 package lesson1
-
-import java.sql.Time
-import java.text.NumberFormat
-import java.time.LocalDateTime
-import java.time.LocalTime
-import java.time.format.DateTimeFormatter
-import kotlin.time.DurationUnit
-import kotlin.time.TimeSource
-
 fun main() {
 
     val seconds = 6480

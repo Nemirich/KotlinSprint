@@ -2,13 +2,13 @@ package Lesson2
 
 fun main() {
 
-    val SQuantity = 4f
+    val sQuantity = 4f
 
-    val SOne = 3
-    val STwo = 4
-    val SThree = 3
-    val SFour = 5
+    val sOne = 3
+    val sTwo = 4
+    val sThree = 3
+    val sFour = 5
 
-    println((SOne + STwo + SThree + SFour) / SQuantity)
+    println((sOne + sTwo + sThree + sFour) / sQuantity)
     // Написать выражение, которое вычисляет средний балл
 }
